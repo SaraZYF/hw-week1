@@ -50,6 +50,13 @@ p {
     font-size: 16px;
 }
 
+/*TODO, define NAV, section size and color*/
+/* TODO, define element, section size to be smaller, so to list along with aside*/
+
+/*TODO, define element, article, to have consistent size ratio*/
+/*TODO, define a  side*/
+
+
 .hero {
     height: 800px;
     width: 100%;
@@ -192,7 +199,8 @@ p {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+    text-align: center
+    ;
 }
 
 .footer h2 {
