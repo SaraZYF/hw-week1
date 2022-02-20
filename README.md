@@ -2,7 +2,7 @@
 homework week1 practice
 THe purpose of this document is to complete week1 homework.
 The final outcome of the website has been demo with link below.
-
+ https://sarazyf.github.io/hw-week1/
 The task has been focused on address the accessiblity issues based on HTML5 standard by utilise the sematic HTML elements tag including, header, section, nav, article and aside, to replace original DIV tag.
 The title of the page has also been up to date to match with website contetn detail.
 Comments have been added to provide detail notes regards to the change.
